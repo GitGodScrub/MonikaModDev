@@ -1,4 +1,4 @@
-# module for ptod related stuff (dev only
+# module for ptod related stuff (dev only)
 
 init 10 python:
 
